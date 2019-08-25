@@ -20,6 +20,11 @@ but in order to add the SSL key to heroku I have to pay 6$/month.
 
 It looks to me like there is a better/free way to do this! Any ideas?
 
+
+<img src="images/connectionNotPrivate.png" width="800">
+
+
+
 ### Microservices Architecture
 I'm interested to separating a small monolithic application (React, Node) into microservices. 
 I know how it should work in theory but not sure how to actually do it!
