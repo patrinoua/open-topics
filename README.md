@@ -5,7 +5,7 @@ A list of open topics, I would appreciate any tips! :)
 ### Mobile Application
 I am building a React Native/Firebase mobile sports application. 
 The aim is to have it approved on the App Store. 
-Feel free to get in touch if you'd like to contribute in development.
+Feel free to get in touch if you'd like to contribute in development!
 
 ## Open Topics 
 ### Hosting / SSL
