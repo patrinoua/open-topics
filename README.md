@@ -8,7 +8,7 @@ The aim is to have it approved on the App Store.
 Feel free to get in touch if you'd like to contribute in development!
 
 
-<img src="images/pingpongbuds.PNG" width="400" border="2px solid black">
+<img src="images/pingpongbuds.PNG" width="400">
 
 
 ## Open Topics 
