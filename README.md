@@ -6,7 +6,11 @@ A list of open topics, I would appreciate any tips! :)
 I am building a React Native/Firebase mobile sports application. 
 The aim is to have it approved on the App Store. 
 Feel free to get in touch if you'd like to contribute in development!
+
+
 <img src="images/pingpongbuds.PNG" width="400">
+
+
 ## Open Topics 
 ### Hosting / SSL
 I am hosting my portfolio (angeliki.herokuapp.com - built with vue & node) on heroku. 
