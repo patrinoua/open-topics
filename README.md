@@ -28,5 +28,4 @@ It looks to me like there is a better/free way to do this! Any ideas?
 
 
 ### Microservices Architecture
-I'm interested to separating a small monolithic application (React, Node) into microservices. 
-I know how it should work in theory but not sure how to actually do it!
+I want to separate a small monolithic application (React, Node) into microservices. 
