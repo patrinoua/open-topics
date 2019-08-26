@@ -1,6 +1,8 @@
 # Currently working on and open topics 
 A list of open topics, I would appreciate any tips! :)
 
+Also when my hands are not too full I'm always interested in participating in projects so if you have one you're working on and could use a hand feel free to drop me a message! 
+
 ## Working on 
 ### Mobile Application
 I am building a React Native/Firebase mobile sports application. 
