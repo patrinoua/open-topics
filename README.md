@@ -1,7 +1,7 @@
 # Currently working on and open topics 
 A list of open topics, I would appreciate any tips! :)
 
-Also I'm always interested in participating in projects so if you have one you're working on and could use a hand feel free to drop me a message on patrinoua@gmail.com .
+Also I'm always interested in participating in projects so if you have one you're working on and could use a hand feel free to get in touch with me.
 
 ## Working on 
 ### Mobile Application
