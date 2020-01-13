@@ -7,7 +7,7 @@ Also I'm always interested in participating in projects so if you have one you'r
 ### Mobile Application
 I am building a React Native/Firebase mobile ping pong application! 
 The aim is to have it published on the App Store. 
-Currently a bit stuck with building a chat (using Gifted Chat)
+
 Feel free to get in touch if you'd like to contribute in development or design :)
 
 
